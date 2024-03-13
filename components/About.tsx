@@ -21,17 +21,17 @@ const About = () => {
       <div className="ps-16 py-14 w-full flex flex-col gap-3">
         <h2 className="font-bold tracking-wide text-2xl">About Us</h2>
         <p className="text-base">
-          Wysax is your trusted partner in transportation solutions, At Wysax,
+         {` Wysax is your trusted partner in transportation solutions, At Wysax,
           we're more than just a transportation company - we're your reliable
           ally in moving goods efficeiently and securely. With a commitment to
           excellence and a passion for innovation, we strive to deliver the
-          highest level of service to our valued clients.
+          highest level of service to our valued clients.`}
         </p>
         <p className="text-base">
-          What sets us apart is our unwavering dedication to customer
+          {`What sets us apart is our unwavering dedication to customer
           satisfaction. We understand that every shipment is critical, which is
           why we leverage custting-edge technology and a global network of
-          partners to ensure timely deliveries and superior performance.
+          partners to ensure timely deliveries and superior performance.`}
         </p>
       </div>
     </section>
